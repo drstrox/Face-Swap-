@@ -36,12 +36,6 @@ If you want to experiment with face-swapping manually, open the notebook:
 jupyter notebook gdsc-face-swap.ipynb
 ```
 
-## Usage
-1. Open the web interface in the browser.
-2. Upload an image that you want to use as the source face.
-3. Click the "Start Face Swap" button to begin real-time processing.
-4. The app will swap your face with the uploaded image using facial landmarks.
-5. Use ManyCam as a virtual camera if needed for integration with Google Meet.
 
 ## Troubleshooting
 - If **no facial landmarks** are detected, ensure proper lighting & a clear face in the camera.
