@@ -1,4 +1,4 @@
-# Face Swapping App (Mac Camera + ManyCam)
+# Face Swapping 
 
 This repository contains a real-time face-swapping application built using Streamlit, OpenCV, MediaPipe, and InsightFace. The app allows users to capture video from their Mac's camera (or ManyCam) and swap faces using an uploaded image. Additionally, the repository includes a Jupyter Notebook (`gdsc-face-swap.ipynb`) for experimenting with face-swapping techniques.
 
